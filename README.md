@@ -1,7 +1,7 @@
 # [ENC]
 
 Press here to deploy to heroku
-[![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![HEROKU](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Asnetwork22/Enc)
 
 
 
