@@ -4,7 +4,7 @@
     "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
     "repository": "https://github.com/nubuki-all/tg-encoder",
-    "success_url": "https://t.me/Ani_Mine",
+    "success_url": "https://t.me/All_Senpai_network",
     "stack": "container",
     "env": {
         "ALWAYS_DEPLOY_LATEST": {
