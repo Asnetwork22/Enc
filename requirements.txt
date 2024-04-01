@@ -17,6 +17,7 @@ pyrogram==2.0.106
 #pyrogram==2.0.73
 python-decouple
 qbittorrent-api
+lxml_html_clean
 random_word
 tzlocal
 #Depreciating...
